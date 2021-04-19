@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Package
+  - Destination
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Base
+    uniqueID: 4029447949
+    locked: 0
+  - name: Collision
+    uniqueID: 2637890055
+    locked: 0
+  - name: Bridge
+    uniqueID: 3089150969
+    locked: 0
+  - name: Package
+    uniqueID: 1874118055
+    locked: 0
+  - name: Character
+    uniqueID: 1476563971
+    locked: 0
